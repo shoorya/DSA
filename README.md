@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/shoorya/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/shoorya/DSA/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shoorya/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0133-clone-graph](https://github.com/shoorya/DSA/tree/master/0133-clone-graph) |
 ## Trie
 |  |
 | ------- |
@@ -93,4 +94,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/shoorya/DSA/tree/master/0029-divide-two-integers) |
+## Depth-First Search
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/shoorya/DSA/tree/master/0133-clone-graph) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/shoorya/DSA/tree/master/0133-clone-graph) |
+## Graph Theory
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/shoorya/DSA/tree/master/0133-clone-graph) |
 <!---LeetCode Topics End-->
