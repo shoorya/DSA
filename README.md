@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/shoorya/DSA/tree/master/0022-generate-parentheses) |
 | [0120-triangle](https://github.com/shoorya/DSA/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shoorya/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/shoorya/DSA/tree/master/0152-maximum-product-subarray) |
 ## Math
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shoorya/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0120-triangle](https://github.com/shoorya/DSA/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shoorya/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/shoorya/DSA/tree/master/0152-maximum-product-subarray) |
 ## Greedy
 |  |
 | ------- |
