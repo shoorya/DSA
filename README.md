@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/shoorya/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/shoorya/DSA/tree/master/0022-generate-parentheses) |
 | [0120-triangle](https://github.com/shoorya/DSA/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/shoorya/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Math
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/shoorya/DSA/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shoorya/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0120-triangle](https://github.com/shoorya/DSA/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/shoorya/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Greedy
 |  |
 | ------- |
